@@ -69,3 +69,11 @@ This repository contains the materials for the Enbridge AI Bootcamp.
 [Answers](https://colab.research.google.com/github/alexwolson/carte-enbridge-bootcamp/blob/main/Answers/Lab_2_2_Answered.ipynb)
 
 [Answers as PDF](https://github.com/alexwolson/carte-enbridge-bootcamp/blob/main/Answers/Lab_2_2_Answered.pdf)
+
+---
+
+## Day 3
+
+#### Lab 3: Predictive Maintenance
+
+[Open in Colab](https://colab.research.google.com/github/alexwolson/carte-enbridge-bootcamp/blob/main/Lab_3.ipynb)
