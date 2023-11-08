@@ -3,6 +3,12 @@
 
 This repository contains the materials for the Enbridge AI Bootcamp.
 
+Jump to:
+
+- [Day 1](#day-1): Introduction to Python, NumPy, Pandas, and Scikit-Learn
+- [Day 2](#day-2): Introduction to TensorFlow and Digital Transformation
+- [Day 3](#day-3): AI and Safety
+
 ---
 
 ## Day 1
@@ -74,6 +80,14 @@ This repository contains the materials for the Enbridge AI Bootcamp.
 
 ## Day 3
 
+#### Lecture: AI and Safety
+
+[Slides](https://github.com/alexwolson/carte-enbridge-bootcamp/blob/main/Slides/3_1%20AI%20and%20Safety.pdf)
+
 #### Lab 3: Predictive Maintenance
 
 [Open in Colab](https://colab.research.google.com/github/alexwolson/carte-enbridge-bootcamp/blob/main/Lab_3.ipynb)
+
+[Answers](https://colab.research.google.com/github/alexwolson/carte-enbridge-bootcamp/blob/main/Answers/Lab_3_Answered.ipynb)
+
+[Answers as PDF](https://github.com/alexwolson/carte-enbridge-bootcamp/blob/main/Answers/Lab_3_Answered.pdf)
