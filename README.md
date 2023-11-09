@@ -9,6 +9,7 @@ Jump to:
 - [Day 2](#day-2): Introduction to TensorFlow and Digital Transformation
 - [Day 3](#day-3): AI and Safety
 - [Day 4](#day-4): AI in Market Strategy, Analyzing Historical Safety Data, and Understanding the Carbon Cost of Machine Learning
+- [Day 5](#day-5): Building a GPT model from scratch and How to generate text: using different decoding methods for language generation with Transformers
 
 ---
 
@@ -83,7 +84,7 @@ Jump to:
 
 #### Lecture: AI and Safety
 
-[Slides](https://github.com/alexwolson/carte-enbridge-bootcamp/blob/main/Slides/3_1%20AI%20and%20Safety.pdf)
+[Slides](https://github.com/alexwolson/carte-enbridge-bootcamp/blob/main/Slides/3%20AI%20and%20Safety.pdf)
 
 #### Lab 3: Predictive Maintenance
 
@@ -101,12 +102,40 @@ Jump to:
 
 [Open in Colab](https://colab.research.google.com/github/alexwolson/carte-enbridge-bootcamp/blob/main/Lab_4_0.ipynb)
 
+[Answers](https://colab.research.google.com/github/alexwolson/carte-enbridge-bootcamp/blob/main/Answers/Lab_4_0_Answered.ipynb)
+
+[Answers as PDF](https://github.com/alexwolson/carte-enbridge-bootcamp/blob/main/Answers/Lab_4_0_Answered.pdf)
+
 #### Lab 4-1: Analyzing Historical Safety Data
 
 [Open in Colab](https://colab.research.google.com/github/alexwolson/carte-enbridge-bootcamp/blob/main/Lab_4_1.ipynb)
 
+[Answers](https://colab.research.google.com/github/alexwolson/carte-enbridge-bootcamp/blob/main/Answers/Lab_4_1_Answered.ipynb)
+
+[Answers as PDF](https://github.com/alexwolson/carte-enbridge-bootcamp/blob/main/Answers/Lab_4_1_Answered.pdf)
+
 ### Afternoon
+
+#### Lecture: AI and Renewable Energy
+
+[Slides](https://github.com/alexwolson/carte-enbridge-bootcamp/blob/main/Slides/4%20AI%20and%20Renewable%20Energy.pdf)
 
 #### Lab 4-2: Understanding the Carbon Cost of Machine Learning
 
 [Open in Colab](https://colab.research.google.com/github/alexwolson/carte-enbridge-bootcamp/blob/main/Lab_4_2.ipynb)
+
+[Answers](https://colab.research.google.com/github/alexwolson/carte-enbridge-bootcamp/blob/main/Answers/Lab_4_2_Answered.ipynb)
+
+[Answers as PDF](https://github.com/alexwolson/carte-enbridge-bootcamp/blob/main/Answers/Lab_4_2_Answered.pdf)
+
+## Day 5
+
+### Morning
+
+#### Lab 5-0: Building a GPT model from scratch
+
+[Open in Colab](https://colab.research.google.com/github/alexwolson/carte-enbridge-bootcamp/blob/main/Lab_5_0.ipynb)
+
+#### Lab 5-1: How to generate text: using different decoding methods for language generation with Transformers
+
+[Open in Colab](https://colab.research.google.com/github/alexwolson/carte-enbridge-bootcamp/blob/main/Lab_5_1.ipynb)
