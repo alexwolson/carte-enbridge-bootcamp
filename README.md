@@ -8,6 +8,7 @@ Jump to:
 - [Day 1](#day-1): Introduction to Python, NumPy, Pandas, and Scikit-Learn
 - [Day 2](#day-2): Introduction to TensorFlow and Digital Transformation
 - [Day 3](#day-3): AI and Safety
+- [Day 4](#day-4): AI in Market Strategy, Analyzing Historical Safety Data, and Understanding the Carbon Cost of Machine Learning
 
 ---
 
@@ -91,3 +92,21 @@ Jump to:
 [Answers](https://colab.research.google.com/github/alexwolson/carte-enbridge-bootcamp/blob/main/Answers/Lab_3_Answered.ipynb)
 
 [Answers as PDF](https://github.com/alexwolson/carte-enbridge-bootcamp/blob/main/Answers/Lab_3_Answered.pdf)
+
+## Day 4
+
+### Morning
+
+#### Lab 4-0: AI in Market Strategy
+
+[Open in Colab](https://colab.research.google.com/github/alexwolson/carte-enbridge-bootcamp/blob/main/Lab_4_0.ipynb)
+
+#### Lab 4-1: Analyzing Historical Safety Data
+
+[Open in Colab](https://colab.research.google.com/github/alexwolson/carte-enbridge-bootcamp/blob/main/Lab_4_1.ipynb)
+
+### Afternoon
+
+#### Lab 4-2: Understanding the Carbon Cost of Machine Learning
+
+[Open in Colab](https://colab.research.google.com/github/alexwolson/carte-enbridge-bootcamp/blob/main/Lab_4_2.ipynb)
