@@ -130,8 +130,6 @@ Jump to:
 
 ## Day 5
 
-### Morning
-
 #### Lab 5-0: Building a GPT model from scratch
 
 [Open in Colab](https://colab.research.google.com/github/alexwolson/carte-enbridge-bootcamp/blob/main/Lab_5_0.ipynb)
@@ -139,3 +137,6 @@ Jump to:
 #### Lab 5-1: How to generate text: using different decoding methods for language generation with Transformers
 
 [Open in Colab](https://colab.research.google.com/github/alexwolson/carte-enbridge-bootcamp/blob/main/Lab_5_1.ipynb)
+
+#### Lab 5-2: Dealing with unlabelled data
+[Open in Colab](https://colab.research.google.com/github/alexwolson/carte-enbridge-bootcamp/blob/main/Lab_5_2.ipynb)
