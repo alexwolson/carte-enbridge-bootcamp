@@ -130,13 +130,33 @@ Jump to:
 
 ## Day 5
 
+#### Lecture 5-1: ChatGPT
+
+[Slides](https://github.com/alexwolson/carte-enbridge-bootcamp/blob/main/Slides/5_1%20ChatGPT.pdf)
+
+#### Lecture 5-2: State of AI
+
+[Slides](https://github.com/alexwolson/carte-enbridge-bootcamp/blob/main/Slides/5_2%20State%20of%20AI.pdf)
+
 #### Lab 5-0: Building a GPT model from scratch
 
 [Open in Colab](https://colab.research.google.com/github/alexwolson/carte-enbridge-bootcamp/blob/main/Lab_5_0.ipynb)
+
+[Answers](https://colab.research.google.com/github/alexwolson/carte-enbridge-bootcamp/blob/main/Answers/Lab_5_0_Answered.ipynb)
+
+[Answers as PDF](https://github.com/alexwolson/carte-enbridge-bootcamp/blob/main/Answers/Lab_5_0_Answered.pdf)
 
 #### Lab 5-1: How to generate text: using different decoding methods for language generation with Transformers
 
 [Open in Colab](https://colab.research.google.com/github/alexwolson/carte-enbridge-bootcamp/blob/main/Lab_5_1.ipynb)
 
+[Answers](https://colab.research.google.com/github/alexwolson/carte-enbridge-bootcamp/blob/main/Answers/Lab_5_1_Answered.ipynb)
+
+[Answers as PDF](https://github.com/alexwolson/carte-enbridge-bootcamp/blob/main/Answers/Lab_5_1_Answered.pdf)
+
 #### Lab 5-2: Dealing with unlabelled data
 [Open in Colab](https://colab.research.google.com/github/alexwolson/carte-enbridge-bootcamp/blob/main/Lab_5_2.ipynb)
+
+[Answers](https://colab.research.google.com/github/alexwolson/carte-enbridge-bootcamp/blob/main/Answers/Lab_5_2_Answered.ipynb)
+
+[Answers as PDF](https://github.com/alexwolson/carte-enbridge-bootcamp/blob/main/Answers/Lab_5_2_Answered.pdf)
